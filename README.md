@@ -1,5 +1,6 @@
 # OnlineAddressbook
-This Project takes the address of a person and stores that and later shows that to the user by searching the infromations.
+This Project takes the information of a person and stores that info to the database and later shows that to the user by searching.
+This project has made by JAVA programming language and in NetBeans IDE. 
 
 1. HOME PAGE: 
 
